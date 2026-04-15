@@ -60,8 +60,9 @@ After completing my graduation, I took ownership of personal responsibilities wh
   - Mumbai Indians – 144 wins  
 
 📌 **Impact:** Supports strategic decision-making in T20 match scenarios
-<img width="1217" height="799" alt="dashboard1 png" src="https://github.com/user-attachments/assets/32992e9d-69ba-4d9d-8d51-267692bb70a3" /> <img width="1195" height="796" alt="dashboard2 png" src="https://github.com/user-attachments/assets/6f54dc3a-fcaf-465d-9152-026dacfc026e" />
 
+<img width="1367" height="766" alt="covid_dashboard png" src="https://github.com/user-attachments/assets/94eac2a0-be3d-4006-8ada-7120a16eed13" />
+ <img width="1195" height="796" alt="dashboard2 png" src="https://github.com/user-attachments/assets/6f54dc3a-fcaf-465d-9152-026dacfc026e" />
 
 ---
 
@@ -79,8 +80,8 @@ After completing my graduation, I took ownership of personal responsibilities wh
   - Peru (~5.9% death rate) vs USA (~1%) → highlights healthcare disparity  
 
 📌 **Impact:** Enables cross-country comparative analysis for policy insights
-<img width="1367" height="770" alt="dashboardcovid png" src="https://github.com/user-attachments/assets/51ba4d10-ce29-4c7a-9e43-966d39d24699" />
 
+<img width="1367" height="770" alt="dashboardcovid png" src="https://github.com/user-attachments/assets/51ba4d10-ce29-4c7a-9e43-966d39d24699" />
 
 ---
 
@@ -97,8 +98,8 @@ After completing my graduation, I took ownership of personal responsibilities wh
   - **Top customer segments contribute 60%+ of total revenue**  
 
 📌 **Impact:** Helps businesses target high-value customers for growth
-<img width="1164" height="656" alt="dashboard png" src="https://github.com/user-attachments/assets/18baee34-38c5-4e14-8634-6899dd9770b5" />
 
+<img width="1164" height="656" alt="dashboard png" src="https://github.com/user-attachments/assets/18baee34-38c5-4e14-8634-6899dd9770b5" />
 
 ---
 
@@ -112,8 +113,8 @@ After completing my graduation, I took ownership of personal responsibilities wh
   - Seasonal demand trends  
 
 📌 **Impact:** Supports inventory planning & sales strategy
-<img width="1032" height="517" alt="sales dashboard png" src="https://github.com/user-attachments/assets/3957dab1-eb72-4e96-954c-fbe5f7a575c8" />
 
+<img width="1032" height="517" alt="sales dashboard png" src="https://github.com/user-attachments/assets/3957dab1-eb72-4e96-954c-fbe5f7a575c8" />
 
 ---
 
