@@ -3,7 +3,7 @@
 📧 abdulrusselsarkar2411@gmail.com  
 📞 +91 7001509087  
 
-🔗 [LinkedIn](#) | [GitHub](#) | [Tableau Public](#)
+🔗 [LinkedIn](#https://www.linkedin.com/in/abdulrusselsarkar) | [GitHub](#) | [Tableau Public](#)
 
 ---
 
