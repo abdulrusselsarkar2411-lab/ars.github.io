@@ -1,62 +1,152 @@
-# 👋 Abdul Russel Sarkar
+# 👋 Abdul Russel Sarkar  
+📍 Kolkata, India  
+📧 abdulrusselsarkar2411@gmail.com  
+📞 +91 7001509087  
 
-🎯 **Aspiring Data Analyst | Mathematics Graduate**
-📍 India
-
----
-
-## 🧑‍💼 About Me
-
-I am a Mathematics graduate with strong analytical and problem-solving skills. I am passionate about working with data and turning raw information into meaningful insights. I have hands-on experience in SQL, Excel, and Power BI through real-world projects.
+🔗 [LinkedIn](#) | [GitHub](#) | [Tableau Public](#)
 
 ---
 
-## 🛠️ Skills
+## 🚀 Professional Summary
 
-* **Programming & Tools:** SQL, Excel, Power BI
-* **Data Analysis:** Data Cleaning, Data Visualization, Data Interpretation
-* **Concepts:** Statistics, Data Analysis
-* **Soft Skills:** Communication, Critical Thinking, Attention to Detail
+Aspiring Data Analyst with a strong academic foundation in Mathematics & Statistics and hands-on experience in transforming raw data into actionable insights.
+
+I bring a combination of:
+- 📊 Statistical thinking & analytical problem-solving  
+- 🛠️ Practical experience with SQL, Excel, Power BI & Tableau  
+- 📈 Ability to build end-to-end dashboards and extract business insights  
+
+After completing my graduation, I took ownership of personal responsibilities while strategically upskilling in data analytics (2024–present), completing certifications and building real-world projects.
+
+💡 I specialize in:
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Tracking & Dashboarding  
+- Business Insight Generation  
+
+🎯 Currently seeking an **entry-level Data Analyst role** where I can contribute to data-driven decision-making and business growth.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Tools**
+- SQL (Joins, Aggregations, Subqueries, Window Functions)
+- Microsoft Excel (Pivot Tables, VLOOKUP, Charts, Slicers)
+- Power BI (DAX, Data Modeling, Dashboarding)
+- Tableau (Dashboards, Calculated Fields, Filters, Maps)
+
+**Core Competencies**
+- Exploratory Data Analysis (EDA)
+- Data Storytelling
+- KPI Design & Tracking
+- Statistical Analysis
+- Business Insight Generation
 
 ---
 
 ## 📊 Projects
 
-### 🔹 SQL Sales Analysis
+### 🏏 IPL Data Analysis Dashboard (2008–2024)
+**Tools:** Tableau  
 
-* Performed data cleaning and transformation using SQL
-* Analyzed sales data to identify trends and top-performing products
-* Generated insights to support business decision-making
+- Analyzed **1,095 matches & 260,920 deliveries** across 17 IPL seasons  
+- Built interactive dashboards with filters, Top-N analysis & calculated fields  
+- Key Insight:  
+  - Teams choosing to **field first had ~2x higher win rate (34.43%) vs batting first (16.16%)**
+- Identified top performers:
+  - Virat Kohli – 8,014 runs  
+  - YS Chahal – 213 wickets  
+  - Mumbai Indians – 144 wins  
 
-### 🔹 Excel Dashboard
-
-* Built an interactive dashboard using pivot tables and charts
-* Used slicers for dynamic filtering
-* Visualized monthly trends and KPIs
-
----
-
-## 📈 Tools & Technologies
-
-* SQL (MySQL / PostgreSQL)
-* Microsoft Excel
-* Power BI
+📌 **Impact:** Supports strategic decision-making in T20 match scenarios  
 
 ---
 
-## 🌱 Currently Learning
+### 🌍 COVID-19 Global Analysis Dashboard  
+**Tools:** Tableau  
 
-* Advanced SQL
-* Power BI Dashboarding
-* Data Analytics Concepts
+- Analyzed **402,910+ records across 10 countries (2020–2024)**  
+- Built 5-visual dashboard (map, trends, vaccination analysis)  
+- Created key metrics:
+  - Death Rate %
+  - Cases per Million
+  - Vaccination Rate %
+
+- Key Insight:
+  - Peru (~5.9% death rate) vs USA (~1%) → highlights healthcare disparity  
+
+📌 **Impact:** Enables cross-country comparative analysis for policy insights  
 
 ---
 
-## 📫 Contact
+### 💳 Customer Spending & Credit Insights Dashboard  
+**Tools:** SQL, Power BI  
 
-* 📧 Email: [your@email.com](mailto:your@email.com)
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+- Analyzed **4,000+ customer records** using SQL joins & transformations  
+- Built Power BI dashboard with KPIs:
+  - Total Spend  
+  - Avg Spend per Category  
+  - Income Utilization %  
+
+- Key Insight:
+  - **Top customer segments contribute 60%+ of total revenue**  
+
+📌 **Impact:** Helps businesses target high-value customers for growth  
 
 ---
 
-⭐ *Open to Data Analyst roles and opportunities*
+### 📈 End-to-End Sales Data Analysis  
+**Tools:** SQL, Excel  
+
+- Processed **12+ months of sales data**  
+- Built Excel dashboard with slicers & dynamic charts  
+- Identified:
+  - Top 3 revenue-driving product categories  
+  - Seasonal demand trends  
+
+📌 **Impact:** Supports inventory planning & sales strategy  
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Mathematics & Statistics**  
+Suri Vidyasagar College, University of Burdwan  
+📅 Graduated: 2020  
+
+---
+
+## 📜 Certifications
+
+- 🏢 **Deloitte Data Analytics Job Simulation (Forage)** – 2026  
+  - Real-world tasks in data analysis & forensic technology  
+
+- 🧠 **SQL (Advanced) – HackerRank** – 2026  
+  - Advanced joins, subqueries, window functions  
+
+- 🤖 **Data Analytics with Generative AI – Physics Wallah** *(In Progress)*  
+
+---
+
+## 💡 What Makes Me Different?
+
+- Strong **mathematical & statistical foundation**
+- Self-driven learner with **real project experience**
+- Ability to convert **data → insights → business decisions**
+- Focus on **practical, real-world analytics problems**
+
+---
+
+## 📌 Current Focus
+
+- Improving advanced SQL & DAX skills  
+- Building more business-focused dashboards  
+- Preparing for Data Analyst interviews  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m actively looking for opportunities in **Data Analytics**.  
+If you’re hiring or want to collaborate, feel free to connect!
