@@ -3,7 +3,7 @@
 📧 abdulrusselsarkar2411@gmail.com  
 📞 +91 7001509087  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abdulrusselsarkar) | [GitHub](#) | [Tableau Public](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdulrusselsarkar) | [GitHub](#) | View my dashboards on [Tableau](https://public.tableau.com/app/profile/russel.sarkar/vizzes)
 
 ---
 
